@@ -13,6 +13,6 @@ html_css_files = ['custom.css']
 html_sidebars = {'**': []}
 html_title = ""
 html_js_files = ['hide-version.js']
-templates_path = ['_templates']
+
 
 
